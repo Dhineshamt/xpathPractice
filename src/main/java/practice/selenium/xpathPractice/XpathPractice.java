@@ -6,11 +6,6 @@ public class XpathPractice {
 	
 		
 
-		System.out.println("Change done on branch 1");
-		
-		
-
-		System.out.println("change from branch 2");
-
+		System.out.println("Change done on branch 2");
 	}
 }
