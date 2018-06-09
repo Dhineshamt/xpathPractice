@@ -6,5 +6,7 @@ public class XpathPractice {
 	
 		
 		System.out.println("Push");
+
+		System.out.println("Stash it");
 	}
 }
